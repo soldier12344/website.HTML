@@ -33,27 +33,6 @@
 
 <P>Clash of Clans is a freemium mobile strategy video game developed and published by Finnish game developer Supercell. ... Players can conjoin to create clans, groups of up to fifty people, who can then participate in Clan Wars together, donate and receive troops, and chat with each other.</p>
 
-<p>please click on gta v  
-
-<a href="·https://play.google.com/store/apps/details?id=com.rockstargames.gtavmanual&hl=en_IN&gl=US">  
-GTA V </a>
-
-webpage of  GTA V
-
-
-<p>please click on the free fire 
-
-<a href="https://play.google.com/store/apps/details?id=com.dts.freefiremax&hl=en_IN&gl=US">
-FREE FIRE</a>
-
-webpage Of FREE FIRE
-
-<p>please click on clash of clans
-
-<a href=" https://play.google.com/store/apps/details?id=com.supercell.clashofclans&hl=en_IN&gl=US">
-CLASH OF CLANS</a>
-
-Webpage of CLASH OF CLANS 
 
 please comment me how is my website at the end
 
