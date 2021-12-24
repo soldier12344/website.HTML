@@ -35,8 +35,7 @@
 
 <p>please click on gta v  
 
-<a href="·
-https://play.google.com/store/apps/details?id=com.rockstargames.gtavmanual&hl=en_IN&gl=US">  
+<a href="·https://play.google.com/store/apps/details?id=com.rockstargames.gtavmanual&hl=en_IN&gl=US">  
 GTA V </a>
 
 webpage of  GTA V
