@@ -35,7 +35,8 @@
 
 <p>please click on gta v  
 
-<a href="https://play.google.com/store/apps/details?id=com.rockstargames.gtavmanual&hl=en_IN&gl=US" ">  
+<a href="·
+https://play.google.com/store/apps/details?id=com.rockstargames.gtavmanual&hl=en_IN&gl=US">  
 GTA V </a>
 
 webpage of  GTA V
@@ -369,31 +370,6 @@ If you want to play free then scroll down
 <br>
 <br>
 
-
-
-
-
-
-
-
-
-<h4> Did you like my website</h4>
-Yes:
-<input type="radio" name="radio"="yesorno"><br>
-No:
-<input type="radio" name="radio"="yesorno"><br>
-<input type="submit" value="Submit">
-
-<br>
-<br>
-<br>
-<form action="" method="">
-
-Comments:</br>
-
-<textarea rows="30" col"80"></textarea></br>
-
-<input type="submit" value"submit"
 
 </form>
 
